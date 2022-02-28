@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordak7&label=Profile%20views&color=0e75b6&style=flat" alt="lordak7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lordak7" alt="lordak7" /></a> </p>
-
 - 🔭 I’m currently working on [A.I assistant](https://github.com/LordAK7/Jarvis)
 
 - 🌱 I’m currently learning **Python automation using many modules and libraries.**
