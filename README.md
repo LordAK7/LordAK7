@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Python automation using many modules and libraries.**
 
-- 👯 I’m looking to collaborate on [A.I assistant](https://github.com/LordAK7/Jarvis)
-
-- 👨‍💻 All of my projects are available at [https://github.com/LordAK7/Jarvis](https://github.com/LordAK7/Jarvis)
-
 - 💬 Ask me about **Python , Automation ,Etc.**
 
 - 📫 How to reach me **adityatinekrcad@gmail.com**
