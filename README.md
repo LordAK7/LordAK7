@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordak7&label=Profile%20views&color=0e75b6&style=flat" alt="lordak7" /> </p>
 
-- 🔭 I’m currently working on [A.I assistant](https://github.com/LordAK7/Jarvis)
+- 🔭 I’m currently working on [On my portfolio](https://github.com/LordAK7/Thegodofcomputers)
 
-- 🌱 I’m currently learning **Python automation using many modules and libraries.**
+- 🌱 I’m currently learning *Artificial Intelligence and machine learning**
 
 - 💬 Ask me about **Python , Automation ,Etc.**
 
