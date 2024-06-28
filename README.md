@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aditya Kamble</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordak7&label=Profile%20views&color=0e75b6&style=flat" alt="lordak7" /> </p>
 
-- 🔭 I’m currently working on [On my portfolio](https://github.com/LordAK7/Thegodofcomputers)
+- 🔭 I’m currently working on [On my portfolio website](https://github.com/LordAK7/Thegodofcomputers)
 
 - 🌱 I’m currently learning *Artificial Intelligence and machine learning**
 
 - 💬 Ask me about **Python , Automation ,Etc.**
 
-- 📫 How to reach me **adityatinekrcad@gmail.com**
+- 📫 How to reach me **AdityaK@thegodofcomputers.com**
 
-- ⚡ Fun fact **I like Tech**
+- ⚡ Fun fact **"Did you know? The first AI program, written in 1951, could play a perfect game of checkers!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
