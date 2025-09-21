@@ -1,6 +1,28 @@
-# 💫 About Me:
-I'm currently working on https://adivirtus.com/<br>I'm looking to collaborate. on the same <br>Ask me anything about AI
+# 💫 Aditya Kamble
 
+## 🚀 Currently Building
+
+**🤖 [Adihuman AI](https://adihuman.ai)** - Founder & CEO  
+Building proprietary AI solutions for the future
+
+**🏥 Homeoware** - CTO  
+Revolutionary homeopathy AI CRM platform
+
+**⚽ Thinking Engines** - Tech & Strategic Advisor  
+Sports analytics powered by ML Ops
+
+**💼 [Adivirtus](https://adivirtus.com)** - Founder & CEO  
+HR tech platform (Currently being sold to an LMS company)
+
+---
+
+### 📝 A Note on My Repos
+
+I don't get much time for open-source contributions. The public repos here are mainly landing pages for various websites.
+
+**All my cool projects and tinkering happen on my private GitLab server in my homelab** 🏠
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thegodofcomputers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kamble-entrepreneur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ceo@adivirtus.com) 
 
